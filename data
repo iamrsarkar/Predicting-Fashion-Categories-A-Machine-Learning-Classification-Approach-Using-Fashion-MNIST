@@ -1,0 +1,9 @@
+Dataset Source
+The Fashion MNIST dataset is a collection of 70,000 grayscale images of clothing items distributed into 10 categories. The dataset was created by Zalando Research as a more challenging alternative to the classic MNIST dataset of handwritten digits.
+
+Official Website: Fashion MNIST GitHub Repository
+Description:
+Train Set: 60,000 examples (28x28 pixels)
+Test Set: 10,000 examples (28x28 pixels)
+Labels: 10 categories of clothing (e.g., T-shirt, trouser, sneaker)
+License: MIT License (from the creators)
